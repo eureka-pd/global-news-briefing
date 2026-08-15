@@ -1,0 +1,60 @@
+# Resumen diario de noticias globales — 2026-07-20 KST
+
+- Ventana de publicación: **desde 2026-07-19 04:00 KST inclusive hasta 2026-07-20 04:00 KST exclusive**
+- Conversión a UTC: desde 2026-07-18 19:00 inclusive hasta 2026-07-19 19:00 exclusive
+- Criterio: se separan los `hechos verificados` del `análisis`. Se indica expresamente cuándo la información procede de declaraciones de empresas, instituciones o partes beligerantes, o de investigaciones y estimaciones.
+
+## Hechos verificados
+
+### Tecnología
+
+1. **Se informó de una prueba reproducible según la cual algunos monitores LG descargan un instalador mediante Windows Update sin aprobación del usuario.**
+   - GeekNews presentó el 19 de julio a las 07:55 KST un [caso de instalación automática de software en monitores LG](https://news.hada.io/topic?id=31564). En la prueba resumida de Gamers Nexus, `LG Monitor App Installer` apareció aproximadamente un minuto después de que Windows Update instalara componentes de extensión y software de LG, y se mostró una promoción de suscripción a McAfee en 31 de 32 arranques. Es un resultado reproducido en una gama concreta de productos; no se ha confirmado que ocurra igual en todos los monitores LG.
+
+2. **Un análisis de alrededor de un millón de palabras clave sostuvo que la IA generativa está redistribuyendo la demanda de búsqueda de información, no eliminándola.**
+   - GeekNews presentó el 19 de julio a las 09:40 KST un [análisis del impacto de la IA en las búsquedas](https://news.hada.io/topic?id=31571). De 1.010.848 palabras clave con al menos 10.000 búsquedas mensuales, cerca del 29 % disminuyó, pero el volumen de las palabras clave que aumentaron compensó casi por completo esa caída; el retroceso fue mayor en las categorías informativas. Es una observación condicionada por la muestra y el método de clasificación del análisis, no una estadística definitiva de todo el mercado de búsquedas.
+
+3. **Se publicó una retrospectiva operativa sobre conflictos recurrentes de estado de Git cuando varios agentes de programación con IA comparten un único checkout.**
+   - GeekNews publicó el 19 de julio a las 15:53 KST un [caso de agentes paralelos compartiendo un único repositorio](https://news.hada.io/topic?id=31579). El autor explicó que durante una semana se produjeron apropiaciones de ramas, commits huérfanos, contaminación del área de staging e implementaciones duplicadas, y señaló el `HEAD` compartido como cuello de botella de concurrencia. Al ser la retrospectiva de un solo equipo, debe leerse como un caso sobre diseño de aislamiento y propiedad, no como una tasa de fallos generalizable.
+
+4. **El Hospital Universitario Nacional de Seúl en Bundang inició con 21 instituciones la validación de un modelo médico integrado de IA para todo el ciclo asistencial.**
+   - AI Times Korea informó el 19 de julio a las 17:10 KST sobre el [proyecto piloto de IA médica AX-Ready](https://www.aitimes.kr/news/articleView.html?idxno=41034). El consorcio AICON pretende validar la conexión de la IA de apoyo clínico, una plataforma regional de colaboración médica y la automatización hospitalaria con el recorrido del paciente, y publicar los resultados como activos estandarizados. Se trata de un anuncio institucional sobre el inicio y los planes del proyecto; no significa que ya se hayan demostrado resultados clínicos ni completado su expansión nacional.
+
+### Mercados y economía
+
+1. **Los inversores extranjeros vendieron acciones surcoreanas en términos netos en julio, pero compraron ETF de índices en términos netos.**
+   - Yonhap informó el 19 de julio a las 10:21 KST sobre los [datos de flujos de inversores extranjeros de Korea Exchange](https://en.yna.co.kr/view/AEN20260719000900320). Hasta el 16 de julio, los extranjeros vendieron en términos netos 12,1 billones de wones en el mercado KOSPI y 338.100 millones de wones en el KOSDAQ, mientras compraron ETF por 593.700 millones de wones netos. El día 19 fue domingo y el 17 no hubo sesión por el Día de la Constitución, por lo que no hubo un nuevo cierre del mercado surcoreano dentro de la ventana de publicación.
+
+2. **El Gobierno surcoreano presentó una hoja de ruta para ampliar el acceso a la negociación y liquidación extraterritorial del won y convertirlo en una moneda libremente convertible.**
+   - Yonhap informó el 19 de julio a las 12:00 KST sobre la [hoja de ruta para la internacionalización del won](https://en.yna.co.kr/view/AEN20260716008500320). El Ministerio de Economía y Finanzas propuso establecer un sistema extraterritorial de negociación y liquidación del won y relajar las restricciones institucionales. Es una orientación de política; el calendario concreto de aplicación y sus efectos en el mercado dependerán de medidas posteriores.
+
+3. **Los precios surcoreanos de la gasolina y el diésel bajaron por novena semana consecutiva, pero el Gobierno prorrogó la prohibición de acaparar productos petrolíferos.**
+   - News1 informó el 19 de julio a las 11:07 KST sobre los [precios de las gasolineras en la tercera semana de julio](https://v.daum.net/v/20260719110727411). Según Opinet, el promedio nacional de la gasolina fue de 1.877,5 wones por litro, 15,5 wones menos que la semana anterior, y el del diésel fue de 1.862,5 wones, 17,7 wones menos. El Ministerio de Economía y Finanzas prorrogó por dos meses, hasta el 12 de septiembre, la disposición que prohíbe el acaparamiento para responder a la inestabilidad de los precios internacionales del petróleo.
+
+4. **Las exportaciones de crudo del Golfo repuntaron en la primera mitad de julio, pero el tránsito por Ormuz volvió a caer al reanudarse con fuerza los combates.**
+   - Una noticia sindicada de Reuters, actualizada de forma sustancial el 19 de julio a las 20:35 KST, señaló en [los flujos de exportación de crudo del Golfo](https://www.brecorder.com/news/40430769/gulf-crude-exports-jump-in-july-but-shipments-slowing-on-renewed-hostilities-data-shows) que, según Kpler, las exportaciones de crudo y condensado de cinco productores del Golfo durante la primera mitad de julio aumentaron cerca de un 16 % frente al promedio de junio, hasta unos 12 millones de barriles diarios, aunque se mantuvieron alrededor de un 32 % por debajo del máximo previo a la guerra registrado en febrero. El 16 de julio, el número de buques cisterna de productos que atravesaron el estrecho cayó a tres. Al ser fin de semana, no hubo nuevos cierres de índices bursátiles mundiales dentro de esta ventana, y la energía y los fletes fueron los principales canales de riesgo para el mercado.
+
+### Política y geopolítica
+
+1. **El ministro surcoreano de Comercio, Industria y Energía tiene previsto visitar Estados Unidos para asistir a la inauguración de un centro de cooperación naval entre ambos países.**
+   - Yonhap informó el 19 de julio a las 12:05 KST sobre el [plan de visita a Estados Unidos del ministro Kim Jung-kwan](https://en.yna.co.kr/view/AEN20260719001800315). Se espera que el secretario de Comercio estadounidense también asista en Washington a la inauguración del Centro de Asociación Naval entre Corea del Sur y Estados Unidos. La posible discusión de las inquietudes estadounidenses sobre la investigación de la filtración de datos personales de Coupang es una conjetura, no un punto confirmado de la agenda.
+
+2. **Estados Unidos continuó sus ataques aéreos contra Irán tras la muerte de militares estadounidenses, mientras el tránsito por Ormuz siguió muy por debajo del nivel previo a la guerra.**
+   - AP informó el 19 de julio a las 12:52 KST sobre los [combates entre Estados Unidos e Irán y la situación en Ormuz](https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8). Según un organismo marítimo supervisado por la Marina estadounidense, tres buques cruzaron el estrecho el día 17 y ocho el día 18, muy por debajo del promedio previo a la guerra de unos 140 diarios. Dado el contexto aportado por AP de que antes de la guerra cerca de una quinta parte del suministro mundial de crudo pasaba por el estrecho, persisten los riesgos para el abastecimiento, los seguros y los fletes. Parte de la información sobre los objetivos de los ataques y la magnitud de los daños depende de declaraciones de las partes beligerantes.
+
+3. **Rusia lanzó un ataque masivo con misiles balísticos contra Kyiv, que dejó víctimas y daños generalizados en instalaciones.**
+   - AFP informó el 19 de julio a las 14:58 KST, a través de The Straits Times, sobre el [ataque aéreo contra Kyiv](https://www.straitstimes.com/world/europe/kyiv-hit-with-deadly-strikes-after-attack-on-russian-e-commerce-giant). Según el artículo, Rusia lanzó 24 misiles balísticos, mató a una persona, hirió a 16 y dañó edificios residenciales y comerciales. El balance inicial de daños puede modificarse en informaciones posteriores.
+
+## Análisis
+
+- **El cuello de botella de la adopción de la IA se desplaza de la elección del modelo a los límites operativos.** El consorcio de IA médica pone de relieve la conexión entre múltiples instituciones y sistemas, mientras la retrospectiva sobre agentes de programación paralelos destaca el aislamiento de los espacios de trabajo. La escalabilidad real depende menos del número de funciones que de una separación clara de la propiedad de los datos, los permisos y el estado.
+- **En las búsquedas y la distribución de software aumenta la influencia de las «capas intermedias invisibles».** Las respuestas de IA cambian el destino de la demanda de búsquedas, y las actualizaciones vinculadas a dispositivos pueden convertirse en una vía de instalación de aplicaciones que el usuario no espera. Los operadores de plataformas deben tratar los valores predeterminados, el consentimiento y la indicación de procedencia con el mismo rigor que las funciones del producto.
+- **En los flujos extranjeros hacia los activos surcoreanos, la diferencia entre los productos elegidos importa más que la dirección.** La coexistencia de ventas netas de acciones al contado y compras netas de ETF de índices podría indicar una selección de liquidez y exposición beta en medio de la volatilidad, más que una retirada total del riesgo surcoreano. Sin embargo, un dato mensual todavía incompleto no basta para afirmar un cambio de tendencia.
+- **El riesgo macroeconómico a corto plazo de Corea del Sur surge del cruce entre la reforma estructural para mejorar el acceso al won y una perturbación energética externa.** La internacionalización del won puede ampliar a largo plazo la base de entradas de capital, pero una interrupción prolongada de la logística en Ormuz podría contrarrestar sus efectos mediante el petróleo, los fletes y la inflación.
+- **El mercado del fin de semana dejó un riesgo de brecha para el lunes más que nuevos precios.** Mientras las principales bolsas surcoreanas y mundiales no registraron nuevos cierres, empeoraron los conflictos entre Estados Unidos e Irán y entre Rusia y Ucrania. La reacción en la próxima apertura puede variar según los flujos de crudo, nuevos ataques y los movimientos de los tipos de cambio.
+
+## Notas de verificación
+
+- Se comprobaron los límites de la ventana convirtiendo a KST los horarios del archivo y el feed Atom de GeekNews, el RSS y los metadatos de los artículos de AI Times Korea, el RSS de Yonhap y las horas de publicación y actualización de cada página sindicada.
+- La navegación normal por AI Times Korea presentó errores, pero se pudo acceder al RSS, al mapa del sitio, a los metadatos HTML directos y al texto de los artículos, por lo que no fue necesario manipular manualmente un navegador activo. No se detectaron comprobaciones antibot ni páginas intersticiales.
+- Debido al fin de semana y al cierre por el Día de la Constitución, no hubo nuevos cierres de índices bursátiles surcoreanos ni mundiales dentro de la ventana de publicación. En vez de reutilizar cierres anteriores como si fueran noticias del día, el contexto de mercado se elaboró con datos sobre flujos extranjeros y logística petrolera publicados dentro de la ventana.
