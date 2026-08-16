@@ -31,8 +31,8 @@
 
 ### 5. North Korea stays silent on President Lee’s end-of-war proposal
 
-- **Source/time:** Yonhap English, 2026-08-16 — [Yonhap](https://en.yna.co.kr/view/AEN20260816001600315)
-- **Source facts:** Yonhap reported that by Sunday morning, KCNA and Rodong Sinmun had not covered Lee Jae Myung’s Saturday Liberation Day call to begin talks to end the long war and build a peace regime. North Korean outlets focused on domestic commemorations, including visits to statues of Kim Il-sung and Kim Jong-il. The Lee administration said it would keep pursuing dialogue.
+- **Source/time:** Yonhap English and Herald Business English, 2026-08-16 — [Yonhap](https://en.yna.co.kr/view/AEN20260816001600315) · [Herald](https://biz.heraldcorp.com/article/10842569)
+- **Source facts:** Yonhap reported that by Sunday morning, KCNA and Rodong Sinmun had not covered Lee Jae Myung’s Saturday Liberation Day call to begin talks to end the long war and build a peace regime. North Korean outlets focused on domestic commemorations, including visits to statues of Kim Il-sung and Kim Jong-il. The Lee administration said it would keep pursuing dialogue. The Herald wrote that this was the first time Lee had put forward a concrete multilateral framework for end-of-war talks.
 - **Analysis:** Silence is not a rejection statement. This is the in-window follow-up to Saturday’s proposal.
 
 ### 6. South Korea fires its first 2026 warning shots after an MDL crossing
@@ -43,12 +43,18 @@
 
 ### 7. After Lebanon strikes, Israel says it killed a Hezbollah battalion commander
 
-- **Source/time:** BBC around Aug. 16; Al Jazeera, 2026-08-16 — [BBC](https://www.bbc.com/news/articles/c4gjygx4gjeo) · [Al Jazeera](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire)
+- **Source/time:** BBC and Al Jazeera, 2026-08-16 — [BBC](https://www.bbc.com/news/articles/c4gjygx4gjeo) · [Al Jazeera](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire)
 - **Source facts:** BBC, citing Lebanese authorities, said 11 people were killed in southern strikes: seven in a house on the edge of Ansar, including three children and two women, and four in Deir al-Zahrani. The Israeli military said it killed Radwan Force battalion commander Ali Samir al-Haj Hassan and that family members he used as “human shields” were harmed. Hezbollah called that a false claim of hitting civilian homes. President Joseph Aoun said the raids violated the truce framework and sent a message to talks; Prime Minister Nawaf Salam said the seven were not military infrastructure. Al Jazeera also reported a claimed killing of a Badr unit commander and another negotiation round next month.
 - **Analysis:** Casualty counts are from Lebanese authorities; targeting and human-shield claims are Israel’s. The strikes themselves were Saturday, before the window; Sunday coverage is the in-window follow-up.
+
+### 8. GeekNews says a super El Niño is strengthening faster than in 2015–16
+
+- **Source/time:** GeekNews curation, 2026-08-16 20:33:47 KST — [GeekNews](https://news.hada.io/topic?id=32549) · [Severe Weather Europe](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
+- **Source facts:** GeekNews and SWE write that the 2026 super El Niño has strengthened rapidly since spring and is ahead of 2015–16 in pace and intensity at the same stage. Citing NOAA CRW, they say eastern ENSO surface waters are more than 5°C above normal over a wide area, peaking above 6°C, with a Kelvin wave more than 9°C warm at 250 meters. June–July 2026 ERA5 low-level westerlies in the west-central equatorial Pacific were the strongest in an 86-year record, and NOAA’s MEI for that period was +2.4, the highest June–July value since 1979. NMME peaks near +4°C in the main ENSO region; recent ECMWF runs have kept raising the peak into record-super-El-Niño territory. The original may predate the window; the GeekNews timestamp falls inside it.
+- **Analysis:** These are long-range forecasts, not a locked winter outlook. Comparative figures are the author’s analysis and may differ from contemporaneous official assessments.
 
 ## Market and access notes
 
 - The last U.S. cash equity session was Friday, Aug. 14, before the window. Weekend futures were shut. Korea was closed Friday, Aug. 15, for Liberation Day, so the last Korean session was Aug. 14, and the Monday, Aug. 17, open had not begun by 04:00 KST. Friday closes and Monday opens are not treated as in-window events.
 - Weekend market context is Hormuz transit. Middle East Eye, citing Reuters, reported two transits and no visible crude cargoes. The Reuters original was not opened for this briefing.
-- GeekNews was checked via RSS and topic pages. The AI Times RSS returned 404, so article pages such as 41467 were used. Yonhap and JoongAng English, BBC, Al Jazeera and TechCrunch were reachable. Bloomberg, WSJ and FT originals were not used. No new in-window reporting was found on TerraPower/SK, Google HEIR or Qwen.
+- GeekNews was checked via RSS and topic pages. The AI Times RSS returned 404, so article pages 41467 and 41468 were opened directly; 41468, a hackathon preview for Aug. 22, was not used. Yonhap, JoongAng and Herald English, BBC, Al Jazeera, TechCrunch and SWE were reachable. An AP Hormuz article was fetched but refers to Tuesday progress, so it was not used as in-window evidence. Bloomberg, WSJ and FT originals were not used.
