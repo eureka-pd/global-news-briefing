@@ -1,0 +1,48 @@
+# Informe diario de noticias globales — 2026-08-28
+
+- **Ventana:** 2026-08-27 04:00 inclusive a 2026-08-28 04:00 exclusive (KST)
+- **Método:** Los hechos de fuente se separan del análisis; las afirmaciones de parte y las cotizaciones intradía se etiquetan.
+
+## Principales novedades
+
+### 1. El Banco de Corea sube el tipo oficial a 3,00% en la segunda alza seguida; el Kospi cierra en 6.912,37 (+1,53%); Wall Street el miércoles cierra ligeramente a la baja
+
+- **Fuente/hora:** Yonhap 2026-08-27 (MPC y cierre); Straits Times / CNBC con cierre del miércoles vía Reuters — [Yonhap tipos](https://www.yna.co.kr/view/AKR20260827045951002) · [Yonhap bolsa](https://www.yna.co.kr/view/AKR20260827142951008) · [Straits Times](https://www.straitstimes.com/business/companies-markets/wall-street-stocks-end-tad-lower-after-hot-inflation-data-ahead-of-nvidia-earnings) · [CNBC](https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html)
+- **Hechos de fuente:** El Consejo de Política Monetaria del Banco de Corea subió el tipo base de 2,75% a 3,00% el día 27, segunda subida consecutiva de 25 pb tras el 16 de julio. Yonhap dijo que no había habido alzas seguidas desde el tramo de siete reuniones de abril 2022 a enero 2023 (3 años y 7 meses). El comunicado subrayó prevenir la difusión de las presiones de precios; el banco elevó el PIB 2026 de 2,6% a 3,3% y 2027 de 2,1% a 2,9%. Seis de siete miembros votaron a favor; Hwang Geon-il disintió por mantener. El Kospi cerró en 6.912,37 (+104,16; +1,53%), tras un máximo de apertura de 6.996,12 (+2,76%) y un mínimo matinal cerca de +0,49% tras la subida. Kosdaq 837,65 (+10,78; +1,30%). Won a las 15:30: 1.380,9 (−3,9). Extranjeros compraron ₩152.400 M e instituciones ₩176.300 M; particulares vendieron ₩1,9138 bn; otras sociedades compraron ₩1,5952 bn. Samsung Electronics ₩266.000 (+1,72%); SK hynix ₩1,73 m (+2,49%). Volumen: Kospi ₩22,7764 bn, Kosdaq ₩5,4402 bn. Straits Times/CNBC situaron el cierre del miércoles en Dow 53.463,88 (−113,52; −0,21%), S&P 500 7.675,70 (−1,58; −0,02%), Nasdaq Composite 26.130,20 (−21,10; −0,08%) tras datos de inflación más calientes y a la espera de Nvidia.
+- **Análisis:** 6.912,37 y 3,00% son resultados del jueves en efectivo/MPC. El cierre estadounidense del miércoles cae ~05:00 KST del 27 (dentro). El del jueves EE. UU. queda fuera tras las 04:00 del 28 KST. Las etiquetas de inflación “caliente” varían; aquí solo se fijan los cierres.
+
+### 2. Nvidia FY2027 T2: ingresos de 96.200 M$; guía T3 108.000 M$
+
+- **Fuente/hora:** NVIDIA Newsroom 2026-08-26 (local, tras el cierre; madrugada/mañana del 27 KST); reimpresión Reuters — [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) · [Reuters](https://krro.com/2026/08/26/nvidia-forecasts-quarterly-revenue-above-estimates/)
+- **Hechos de fuente:** Trimestre cerrado el 26 de julio de 2026: ingresos 96.221 M$ (+106% interanual, +18% trimestral). Data Center 89.000 M$ (+117% interanual). Márgenes brutos GAAP y non-GAAP 75,0%; BPA diluido GAAP 2,46$, non-GAAP 2,22$. Jensen Huang: “AI has reached its inflection point… Now, compute is revenue.” Guía T3: 108.000 M$ ±2%, asumiendo cero ingresos de cómputo Data Center en China; margen bruto guía 74,0% ±50 pb. Reuters dijo que el dato y el BPA ajustado superaron LSEG, la guía de 108.000 M$ quedó por encima de ~104.190 M$ de consenso, la CFO Colette Kress citó restricciones de oferta y Huang apuntó ~70% de crecimiento de ingresos para el ejercicio que termina en enero de 2028.
+- **Análisis:** La publicación es tras el cierre del miércoles EE. UU. y dentro del jueves KST. 108.000 M$ es guía, no ventas cerradas. El +70% es comentario de gestión, no guía anual formal. La cinta after-hours varía y no se trata aquí como cierre regular.
+
+### 3. Informes de compra Nvidia–Hugging Face ~13.000 M$; las fuentes discrepan sobre si hay acuerdo firmado
+
+- **Fuente/hora:** Reuters (citando The Information) 2026-08-26/27; TechCrunch 23:32 PDT del 26; curación GeekNews 12:31:49 KST del 27 — [Reuters](https://www.reuters.com/technology/nvidia-talks-acquire-hugging-face-13-billion-deal-business-insider-reports-2026-08-27/) · [TechCrunch](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/) · [GeekNews](https://news.hada.io/topic?id=32933)
+- **Hechos de fuente:** Reuters, citando The Information, dijo que Nvidia acordó comprar el hub de modelos abiertos Hugging Face por 12.900 M$. TechCrunch puso esa línea de “acuerdo” junto al informe de Business Insider de conversaciones por más de 13.000 M$ sin firma y con riesgo de ruptura. GeekNews resumió conversaciones por encima de ~13.000 M$, sin pacto aún, riesgo de fallo, compromiso de inversión en capital restante del ejercicio de 18.000 M$ y 47.900 M$ en participaciones privadas. Reuters señaló la ronda 2023 a 4.500 M$ de valoración e ingresos anualizados ~150 M$ citados por The Information.
+- **Análisis:** No es anuncio oficial; ambas empresas, según los medios, no comentaron. “Acordado” y “sin firma / puede caer” coexisten: no tratar el trato como cerrado.
+
+### 4. Primer ministro de Catar en Teherán; la Casa Blanca dice que no hay conversaciones EE. UU.–Irán; sigue la diplomacia del Hormuz
+
+- **Fuente/hora:** Blog en vivo de CNN actualizado 2026-08-27; blog en vivo de Al Jazeera del 27 — [CNN](https://www.cnn.com/2026/08/27/world/live-news/iran-war-trump) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue)
+- **Hechos de fuente:** CNN dijo que el PM/canciller catarí jeque Mohammed bin Abdulrahman Al Thani se reunió el jueves en Teherán con el canciller iraní Abbas Araghchi y otros sobre el corredor temporal conjunto Omán–Irán en el Hormuz / desminado y la desescalada. La secretaria de prensa Karoline Leavitt dijo que no hay negociaciones EE. UU.–Irán en curso y que Washington se centra en “Operation Economic Outcast”. CNN, citando UKMTO, dijo que un petrolero cerca del Hormuz fue alcanzado por un proyectil desconocido, el fuego se apagó, toda la tripulación está a salvo y no hubo impacto ambiental reportado. El viceministro iraní del petróleo dijo a Fars que se restauró ~40% de la capacidad dañada de South Pars, pero la reconstrucción llevará al menos dos años. Al Jazeera citó al jefe de seguridad Mohsen Rezaei: EE. UU. debe cumplir las condiciones iraníes antes de abrir el estrecho.
+- **Análisis:** La visita catarí y la línea de la Casa Blanca del jueves están dentro de la ventana. La disputa IRGC/Trump del miércoles ya se cubrió ayer. El corredor temporal sigue siendo un marco no implementado. UKMTO no identificó la fuente del proyectil.
+
+### 5. Continuity de Cursor: nuevo sistema de almacenamiento Git a gran escala (GeekNews)
+
+- **Fuente/hora:** Curación GeekNews 09:15:02 KST del 2026-08-27 — [GeekNews](https://news.hada.io/topic?id=32926)
+- **Hechos de fuente:** GeekNews dijo que Cursor presentó Continuity, un sistema de almacenamiento Git orientado a los dolores del hosting a escala de servidor (acceso aleatorio a packfiles, consistencia fuerte, coste de réplica), citando Spokes de GitHub —Git real en NVMe local con commit en 3 fases multi-réplica— como punto de comparación.
+- **Análisis:** La hora de curación está dentro. Benchmarks, calendario de migración y estatus open source no se fijaron solo con este resumen; no se reabrió el post primario de Cursor en este pase.
+
+### 6. Park Geun-hye asiste al retiro de diputados del PPP tras 14 años; NBS sitúa la aprobación de Lee en 50%
+
+- **Fuente/hora:** Sportal Korea y pares sobre el retiro del 2026-08-27; Aju News / Sisajournal con NBS el mismo día — [Sportal Korea](https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553492430) · [Aju News](https://www.ajunews.com/view/20260827135035754)
+- **Hechos de fuente:** La expresidenta Park Geun-hye habló el día 27 en el retiro de diputados del People Power Party en Goyang, subrayando la confianza (“musinbullip”), la unidad en torno al liderazgo y que una oposición minoritaria podría recuperar mayoría y poder si gana la confianza pública. La cobertura lo llamó la primera aparición en un retiro del partido en 14 años desde su candidatura Saenuri de 2012. NBS (Embrain Public, Kstat, Korea Research, Hankook Research; 24–26 ago; 1.001 adultos 18+; entrevistas por número móvil virtual) situó la aprobación del presidente Lee Jae-myung en 50% (+1 pp), apoyo partidario Democrático 41% / PPP 20% (+1 / −3), y 63% de acuerdo en que debería comprometerse a no presentarse si hay reforma constitucional (28% en desacuerdo). MoE ±3,1 pp al 95%; tasa de respuesta 15,4%.
+- **Análisis:** Las citas del retiro son reportaje. NBS es encuesta, no pronóstico; la pregunta de no candidatura es condicional. La resolución del 26 sobre Lee Jin-sook queda fuera de esta ventana.
+
+## Notas de mercado y acceso
+
+- Corea 27 ago: Kospi 6.912,37 (+1,53%), Kosdaq 837,65 (+1,30%), won 1.380,9 (−3,9) a las 15:30. Los cierres EE. UU. del miércoles entran temprano el jueves KST (dentro). El cierre del jueves EE. UU. queda fuera.
+- Los ítems de ayer (Meta hasta 16.680 M$, AWS–DuckLabs, Jalapeño, dimisión de Lee Jun-seok, AA Corea IA n.º 3, Hormuz IRGC/Trump del miércoles) no se reiteran sin hechos nuevos. Hormuz aquí es Catar / Casa Blanca / petrolero del jueves.
+- RSS de GeekNews revisado de 04:00 del 27 a 04:00 del 28 KST. Usados 32926 y 32933. Dentro pero no itemizados: 32917, 32918, 32936, 32944 (aviso MTurk del 25), 32943. Posts tempranos del 28 (32945–32949) omitidos por confirmación primaria delgada. Posts de AI Times del 26 quedan fuera y no se reutilizan.
