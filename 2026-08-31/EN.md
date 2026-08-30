@@ -13,9 +13,9 @@
 
 ### 2. President Lee names Lee Hae-min AI Future Strategy Chief; Ha Jung-woo as National AI Strategy Committee vice chair
 
-- **Source/time:** AI Times Choi Kwang-min, filed 2026-08-30 13:46 KST — [AI Times](https://www.aitimes.kr/news/articleView.html?idxno=41666)
-- **Source facts:** President Lee Jae-myung on the 30th nominated six ministers (economy/finance Lee Hyung-il; justice Kim Seung-won; defense Kang Shin-cheol; gender equality Yong Hye-in; land Hong Ji-seon; SMEs Lee So-young) and designated Ha Jung-woo (former AI Future Planning Chief) as National AI Strategy Committee vice chair and Rep. Lee Hae-min (Rebuilding Korea Party) as Presidential Office AI Future Planning Senior Secretary, AI Times reported. Provisional “mega-project” aide: Lee Won-ju (energy transition policy); political special adviser: Kim Kyung-soo. Blue House framing: Lee Hae-min is a former Google engineer and AI Framework Act sponsor; Ha provides continuity as first AI chief. Goal language: “top-three AI power” and citizen-facing services (party / office claim).
-- **Analysis:** In-window Korean primary used here is AI Times 13:46. Confirmation hearings / outcomes not in this piece. Office framing ≠ measured results.
+- **Source/time:** Yonhap roundup 2026-08-30 12:31 KST (Chun Chu Gwan briefing photo 12:03); AI Times Choi Kwang-min filed 13:46 KST — [Yonhap](https://www.yna.co.kr/view/AKR20260830026351001) · [AI Times](https://www.aitimes.kr/news/articleView.html?idxno=41666)
+- **Source facts:** Chief of Staff Kang Hoon-sik announced at Chun Chu Gwan that President Lee nominated six ministers (Yonhap): economy/finance Lee Hyung-il (1st vice minister); justice Kim Seung-won (DP two-term, Judiciary Committee floor manager, ex-judge); defense Kang Shin-cheol (former CFC deputy commander, four-star); land Hong Ji-seon (2nd vice minister); SMEs Lee So-young (DP); gender equality Yong Hye-in (Basic Income Party, born 1990 — would be first 1990s-born minister if confirmed, Yonhap). Blue House staff: AI Future Planning Senior Secretary Lee Hae-min (Rebuilding Korea; ex-Google engineer); National AI Strategy Committee vice chair Ha Jung-woo (former AI chief); political special adviser Kim Kyung-soo (former S. Gyeongsang governor); mega-project aide Lee Won-ju. Kang’s framing: Lee Hyung-il led oil price-cap work in Mid-East oil shock; Hong is housing-supply “field” bureaucrat; “capability-first” push (party claim). Yonhap flags Yong and Lee Hae-min as opposition figures inside the broader ruling camp. AI Times covers the same slate under a “top-three AI power” goal line.
+- **Analysis:** In-window primaries are Yonhap 12:03–12:31 and AI Times 13:46. Hearings/appointments not done. Office and party praise are claims, not measured results.
 
 ### 3. Weekly Kospi preview: NH 6,400–7,500; watch Sept FOMC, jobs, CPI (cash market closed Sunday)
 
@@ -47,6 +47,19 @@
 - **Source facts:** CDT-commissioned Public First survey of 2,000 British adults, Apr 20–27 2026, weighted, MoE 2.2 pp (Register). 93% agree they have a right to private online conversations; 89% say no one should access personal messages without a court order; two-thirds would not trust current or any future government with power to access encrypted messages. Among 2024 GE voters: Labour 58%, Conservatives 59%, Lib Dems 56%, Greens 69%, Reform 75% distrust “any government” with that power. Only 12% backed secret company access orders; 53% said security risks outweigh benefits vs 28% benefits outweigh. Hacker vulnerability concern 84%; abuse concern 82%. 55% had not heard of the Apple ADP/TCN episode. Register notes CDT campaigns for strong encryption; polling done independently.
 - **Analysis:** Poll ≠ legislation. CDT interest disclosed. Fieldwork was April; in-window event is Aug 30 coverage / GeekNews.
 
+
+### 8. Himalayan glacier collapse / mudslide — Sunday toll ~800 dead, 3,000+ missing (Wed event, Sun counts)
+
+- **Source/time:** Reuters Chitwan/Beijing, Aug 30 (Sun) — [Reuters](https://www.reuters.com/world/china/china-identifies-countries-261-foreigners-missing-himalayan-mudslide-2026-08-30/)
+- **Source facts:** Wednesday glacier collapse → mudslide. Sunday tallies: Nepal 781 dead / 2,502 missing; China Gyirong 16 dead / 546 missing — combined ~800 dead, 3,000+ missing. Red Cross: 90,000+ affected. Beijing: 261 foreign nationals from 23 countries unaccounted for in Tibet. Wang Yi–Nepal FM call Sat (CCTV): worst recent cross-border disaster. ~10,000 Nepali troops plus China/India specialist teams. ~350 possibly trapped in Upper Trishuli hydropower tunnel (Fri info). Chitwan: 96 unidentified buried Sat; 100+ more planned Sun. CCTV: “glacier instability under long-term effects of global warming” (state-media claim).
+- **Analysis:** Event was Wednesday; in-window material is Sunday toll, search, and mass burials. Climate framing is CCTV’s claim.
+
+### 9. Arms-depot strike near Kyiv — death toll 38; Zelenskyy: deadliest this year (Sat-night strike, Sun toll)
+
+- **Source/time:** Al Jazeera 2026-08-30; Zelenskyy Sunday Telegram (as reported) — [Al Jazeera](https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38)
+- **Source facts:** Zelenskyy: 38 dead (deadliest attack this year), 20 injured, 4 missing at Myla munitions depot near Kyiv. Firefighting, secondary explosions, and EOD continued Sunday. Anger that arms were stored near homes; prosecutors opened a criminal-negligence probe. Second munitions-depot hit near Kyiv in two months. Russian MoD claim: preparing “massive strikes” on Ukraine energy infrastructure after Kyiv’s Wildberries / energy drone campaign (party claim).
+- **Analysis:** Strike began Saturday night (window edge); in-window is Sunday’s 38 toll and search. Tactical strike and near-civilian storage are both contested.
+
 ## Market and access notes
 
 - Korea Sunday cash CLOSED. At Mon 04:00 KST window end, regular session not yet open. New material is last week’s close + Sunday outlook.
@@ -54,3 +67,4 @@
 - Oil/Hormuz: Friday settle + IRGC were yesterday. This window: Sunday Khamenei message + contingent Oman understanding.
 - GeekNews Atom 2026-08-30 04:00–31 04:00 KST: 24 in-window entries. Used: 33023 Hy4, 33024 GrapheneOS, 33031 AB-1856, 33038 UK poll. Others not itemized include 33014–33022, 33025, 33028, 33030, 33033–33042. AI Times: 41666 appointments used; 41658 Cursor etc. already yesterday.
 - NOT repeated: OpenAI–Cursor wind-down body; Sony/Warner–Anthropic suit; Debian AI GR; Z.ai GLM-5.3; Friday U.S. close figures as “new.”
+- Follow-up pass adds: Yonhap cabinet primary, Himalaya Sunday toll, Kyiv depot 38.
