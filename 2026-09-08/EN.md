@@ -1,0 +1,60 @@
+# Daily Global News Briefing — 2026-09-08
+
+- **Window:** from 2026-09-07 04:00 up to (but not including) 2026-09-08 04:00 KST
+- **Method:** Source facts separated from analysis; party claims and session/settle prints labeled. Cross-checked GeekNews Atom and AI Times RSS in-window pickups. Mon Sep 7: US cash closed for Labor Day; Korea, Asia and Europe cash open.
+
+## Top developments
+
+### 1. Kospi 6,995.39 (+4.61%) — just shy of 7,000; Samsung ₩270k, SK hynix +8.26%; US cash on Labor Day holiday
+
+- **Source/time:** Businesskorea Mon 16:48; Edaily/MoneyToday/Weekly Chosun closes — [Businesskorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=276351) · [Edaily](https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03486646645577824)
+- **Source facts:** Kospi closed **6,995.39**, **+308.18 (+4.61%)** vs Fri Sep 4 — about 4.6 points from a 7,000 close (Businesskorea/exchange via reporting). Opened **6,910.78 (+3.34%)** and widened gains (Businesskorea). **Samsung Electronics** ₩270,000 (+5.68%); **SK hynix** ₩1,783,000 (+8.26%); SK Square +8.07% (Businesskorea). Reporting ties the move to OpenAI GPT-6 Astra / Nvidia AI-infrastructure expectations and residual US semiconductor strength from Friday (Edaily/Weekly Chosun). Edaily: individuals sold **₩6.8212T** net; foreigners bought **₩2.5869T** and institutions **₩2.6327T** in the regular session. Kosdaq **822.19 (+1.07%)** (Edaily). Seoul FX opened 1,346.8 (prior close 1,350.4) and finished in the **1,340s** (Businesskorea; exact close print not in that piece). US cash equities **closed for Labor Day**; Reuters: S&P futures ~−0.1%, Nasdaq futures ~+0.1% in light trade.
+- **Analysis:** In-window Korea market axis is a **mega-cap semiconductor surge into a sub-7,000 close**. Tuesday US cash reopen plus this week’s CPI/FOMC path are the continuity variables in the same coverage.
+
+### 2. Brent ~$97 (≈7-week high) — Hormuz risk and hike bets; Europe soft, Asia tech bifurcates higher
+
+- **Source/time:** Reuters via LSE Mon 14:13; AFR Mon; Modern Diplomacy Mon — [Reuters/LSE](https://www.lse.co.uk/news/global-markets-stocks-dented-by-inflation-risk-from-rising-oil-dicey-geopolitics-66gjizare38g5i8.html) · [AFR](https://www.afr.com/markets/equity-markets/risk-of-a-correction-is-high-after-oil-surge-bonds-meltdown-20260907-p60uzu)
+- **Source facts:** Reuters Mon: Brent futures **about +0.6% to ~$97**/bbl (described as a seven-week high); a headline also cites **+1.5% to $97.6** — **treat as session prints that differ by stamp**. Oil ~+8% last week and ~+35% vs late February pre-war levels (Reuters). Diesel ~+90% vs pre-war and near record highs last week (Reuters). Tehran said it would announce a **restricted zone** outside Hormuz; weekend US strikes on three Iranian tankers and IRGC ballistic missiles at US ships (missed) remain the physical backdrop (Reuters; much of the weekend body is yesterday). Markets price ~**58%** odds of a Sep 16 Fed hike and ~**70%** for October after the strong jobs print (Reuters). ECB hike to **2.5%** Thursday treated as nearly certain; ~75% chance of 3.0% by December; BOJ ~75% for +25 bp on Sep 18 (Reuters). European equities about −0.1% to −0.3%; euro ~$1.1625; US 10-year near **4.78%** (Reuters Asia wire). AFR: oil at $97 after Iranian tanker/US-linked ship strikes; correction risk flagged.
+- **Analysis:** In-window macro hook is **Monday’s oil re-test of highs plus central-bank re-pricing**. Physical Hormuz risk and inflation paths dominate over yesterday’s OPEC+ October freeze.
+
+### 3. Saxony-Anhalt AfD 43.8% / 39 seats — short of majority; Merz says CDU “shaken to foundations”; Monday EU and street reaction
+
+- **Source/time:** DW Mon live updates; tagesschau Mon 03:14; Reuters Mon — [DW](https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934) · [tagesschau](https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html)
+- **Source facts:** Preliminary official result of Sunday’s state vote (confirmed Monday): **AfD 43.8% (39 seats)**; CDU 17.2% (15); SPD 9.3% (8); Greens 8.9% (8); Left 8.6% (8); BSW 5.3% (5); FDP 2.6% misses 5% threshold. Turnout **77.8%** (highest in the state since reunification, tagesschau). AfD is **three seats short** of 42/83. Chancellor Friedrich **Merz** Mon: result shakes CDU “to its very foundations”; still rules out AfD cooperation but says politics cannot continue as before (DW). AfD’s Ulrich **Siegmund** and co-leaders claim a governing mandate, urge others to drop the “firewall,” and float new elections if blocked (party/DW). BSW rules out a formal AfD coalition but leaves room for issue-by-issue tolerance (DW). Berlin Brandenburg Gate protest: police estimate **2,500+** (DW). EU foreign-policy chief **Kallas** in Vilnius warned about parties that “ignore” Russia’s hybrid threat without naming AfD (DW). Elon **Musk** posted “Gut gemacht!” on X; Siegmund thanked him (DW).
+- **Analysis:** Ballots were Sunday; in-window news is **certified prelims, coalition deadlock, and federal/EU reaction**. Parliament must convene by Oct 6.
+
+### 4. Lee–Macron Lumière Summit — €500M each over five years (€1B) partnership and 15-principle declaration
+
+- **Source/time:** MoneyToday Mon 18:13; Financial News Mon 18:29; Newsis speech text — [MoneyToday](https://www.mt.co.kr/politics/2026/09/07/2026090716562349751) · [Financial News](https://www.fnnews.com/news/202609071823595807)
+- **Source facts:** On **Monday** in Saint-Paul-de-Vence, Presidents Lee Jae-myung and Emmanuel Macron co-chaired the **Lumière Summit** opening. **Lumière Partnership:** Korea and France each commit **€500M** over five years to domestic film/AV industries (**€1B** total; KRW ~1.55–1.6T in Korean coverage) plus co-investment/co-production (speech/reporting). Participants adopted the **Lumière Declaration on the Future of Film and Audiovisual Works** with **15 principles** (Financial News). Lee: AI should assist human-centered creation; flagged jobs, likeness/voice cloning, copyright and training-data risks; listed cinema, independent film, and local–OTT coexistence as tasks (speech). Macron: “project-and-action” multilateralism, universal image education, support for vulnerable independent cinemas, and a new international video-game forum (Financial News). **Tue Sep 8** Paris summit (AI, space, nuclear, bio, Hormuz) remains upcoming.
+- **Analysis:** Yesterday was visit launch; today’s hook is the **first concrete investment pledge and declaration**. Broader industrial/security deliverables wait on Paris.
+
+### 5. Ukraine — post-envoy diplomacy and capital-strike pause clock; Monday Perm drone / refinery claims
+
+- **Source/time:** CGTN/AP Mon; pause timing context in IntelliNews/PBS — [CGTN](https://newseu.cgtn.com/news/2026-09-07/Frequent-strikes-on-Kyiv-continue-after-US-envoy-visit-1QfAH4qBZHG/p.html)
+- **Source facts:** Zelenskyy called Sunday talks with Kushner and Witkoff “very substantial” without announcing a breakthrough; said he expects fighting into winter and discussed air-defense missiles and a winter package (CGTN/AP). Territory still “for leaders”; Ukraine ready for **trilateral** US–Ukraine–Russia talks if Moscow engages (party). Capital-to-capital strike pause tied to the envoy trip; reporting differs on exact expiry (end Mon vs Tue) — **no single verified clock used here**. Long-range fire continued: Ukraine air force claimed **82**/108 drones and **6** missiles intercepted overnight; Russia MoD claimed **258** Ukrainian drones downed (party via CGTN). **Monday:** Perm governor reported one dead and four injured in a residential drone strike; Zelenskyy confirmed strikes on oil-processing in Perm and Tatarstan plus Ryazan refining (party/CGTN). First Kyiv visit body is **yesterday**.
+- **Analysis:** In-window track is **rhetoric without a deal, a pause nearing expiry, and continued deep-rear infrastructure strikes**.
+
+### 6. Nepal floods day 13 — 1,356 dead / ~4,996 missing; national mourning; tunnel searches continue
+
+- **Source/time:** New Indian Express Mon 13:53; NDRRMA via reporting — [TNIE](https://www.newindianexpress.com/world/2026/Sep/07/nepal-floods-death-toll-surges-to-1356-as-rescue-efforts-continue-nearly-5000-still-missing)
+- **Source facts:** NDRRMA Mon: Nepal bodies **1,356**; missing about **4,996** (incl. ≥589 foreigners in coverage); ~**13,400** rescued cumulative (TNIE). China-side ≥43 dead / 500+ missing carried as prior context. Only **98** bodies identified and returned; 1,000+ unidentified buried after DNA sampling (authorities). Monday was a **national day of mourning** (day 13). President Paudel visited Nuwakot and Rasuwa and called for climate justice (secretariat/TNIE). About **121** people believed trapped in hydropower tunnels; Nepal Army with Indian, Chinese and Australian specialists (incl. Arnold Dix) continuing searches (authorities). Do not re-lead Sunday’s 1,341 cut or the Cho–Khanal meeting — new is **+15 bodies, mourning day, presidential visit**.
+- **Analysis:** New material is the **Monday tally, national mourning, and prolonged tunnel rescue**.
+
+### 7. Tech — Astra Max WebDev #1; Google contrails & AI for the Planet; if(kakao)26; GeekNews (TVING claims window, Swiss MS pilot, etc.)
+
+- **Source/time:** AI Times 41796 12:40 / 41801 21:51 / 41800 14:24 / 41797 12:47; GeekNews Atom in-window (33287–33328) — [41796](https://www.aitimes.kr/news/articleView.html?idxno=41796) · [41801](https://www.aitimes.kr/news/articleView.html?idxno=41801) · [41800](https://www.aitimes.kr/news/articleView.html?idxno=41800) · [41797](https://www.aitimes.kr/news/articleView.html?idxno=41797) · [GeekNews](https://news.hada.io)
+- **Source facts:**
+  - **41796:** Arena.ai: GPT-6 **Astra Max** leads Code Arena: WebDev at **1,797** vs Claude Fable 5.1 Max **1,762**; frontend **1,808**. API $10 in / $50 out per 1M tokens on the board; added Sep 5 (paper).
+  - **41801:** Google DeepMind–Cathay Pacific Asia-Pacific **contrail avoidance** trial; 80+ of 100+ flights flew avoidance routes; satellite analysis estimates ~**40%** cut in warming impact; HKG–SIN >50% of reductions; Phase-2 expansion and Contrails.org collaboration (company/paper, Mon).
+  - **41800:** DeepMind **AI for the Planet (APAC)** first cohort of **16** for three months; Korea’s **TelePIX** (mangrove satellite monitoring) included; Singapore bootcamp starts (paper).
+  - **41797:** Kakao **if(kakao)26** on Oct 13–14 at Kakao AI Campus, Yongin; slogan “Connections Meet Intelligence”; apply Sep 7–28, lottery notice after Oct 1 (company/paper).
+  - GeekNews Atom in-window examples: **33308** TVING **39.54M-account** breach **compensation self-application** (claims window opens Mon — investigation body was Sep 3–4); **33328** Swiss federal pilot replacing Microsoft on **3,000** PCs (openDesk; IT Foss/federal pickup); **33326** Terence Tao on risks of rushing math with AI alone; **33318** claim LG TVs recorded audio / probed nearby devices while screens off; **33307** Astra CSAT bench perfect-score claim; **33291** Artificial Analysis AAII v4.2. Topic bodies bot-blocked; titles cross-checked on the web.
+- **Analysis:** In-window tech slate is **agentic coding leaderboards, climate-AI field trials, a domestic developer conference, and an OTT remediation window** — not another frontier-model relaunch write-up.
+
+## Markets & sourcing notes
+
+- US **Mon Sep 7 Labor Day** cash holiday → reopen **Tue**. Korea/Asia open; Kospi close 6,995.39 is in-window.
+- Oil: Mon Brent ~$97 (Reuters session language); OPEC+ October freeze body is yesterday.
+- GeekNews Atom in-window IDs e.g. 33287–33328 (not contiguous). AI Times in-window: 41785–41801 (featured 41796/41797/41800/41801).
+- Do not re-lead: Sunday Kyiv envoy first report; OPEC+ freeze first report; Isar Spectrum orbit; Gemini Audio/GOLLuM bodies; Sunday Nepal 1,341 as today’s lede; TVING Sep 3 investigation as if newly broken today.
