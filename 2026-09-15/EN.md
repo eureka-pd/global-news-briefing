@@ -1,0 +1,48 @@
+# Daily Global News Briefing — 2026-09-15
+
+- **Window:** from 2026-09-14 04:00 through before 2026-09-15 04:00 (KST)
+- **Method:** Facts vs analysis separated; party claims and post-window prints labeled. GeekNews Atom (`rss/news`) and AITimes RSS via curl. Monday Korea cash and in-window oil prints included; U.S. cash settlement (~05:00 KST) is **just after** the window and used only for context.
+
+## Top developments
+
+### 1. Salalah Hormuz talks postponed (Iran: Saudi request); Houthis claim Khamis Mushait strikes; oil spikes then partially reverses; Trump says Iran wants a deal “quickly and badly”; Iran lists 77 ships for protocol breaches
+
+- **Sources/time:** Reuters Mon (Taiz/Dubai); Al Jazeera Mon analysis; Oman FM Sunday-night delay — [Reuters](https://www.reuters.com/business/energy/diplomacy-stumbles-with-postponement-meeting-strait-hormuz-proposal-2026-09-13/) · [Al Jazeera](https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through) · [Washington Post](https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/)
+- **Sourced facts:** The Iran–Iraq–GCC (minus Bahrain) ministerial set for **Salalah, Oman** was **postponed** Sunday night. Oman FM Badr Albusaidi: delayed “in the interests of consensus.” Iran MFA: delay at **Saudi request** (**Iran’s account**). Al Jazeera citing Axios/CNN: Riyadh sought **amendments** to the Iran–Oman corridor draft. **No meeting was held** (do not claim a signed reopening). Monday: Houthis **claimed** dozens of missiles/drones at **Khamis Mushait** airbase and related sites; Saudi civil-defense alerts. Saudi **East-West pipeline** remains offline after Friday drone damage. Oil **jumped >4%** on the reopen, then pared after Trump remarks — Reuters: Brent ~**+$1.6% / ~$106** by 1730 GMT. U.S. retail diesel **above $6.23**/gal record (Reuters). Trump (Truth Social): Iran wants a deal “**quickly and badly**”; he will decide whether the U.S. engages (**party claim**). Iran published **77** ships it says violated Hormuz operating rules, warning fines/detention/confiscation. MBS met U.S. CENTCOM Adm. Brad Cooper in **Jeddah** (Saudi media). Prior Reuters sourcing: Washington still limiting support largely to **intelligence**.
+- **Analysis:** In-window hook vs yesterday’s “corridor ≠ reopening” frame: **confirmed delay + Monday Houthi claims + reopen oil spike + Trump deal signal**. Pipeline restart and corridor deal remain unverified.
+
+### 2. Ahead of Wednesday FOMC…markets and Reuters economists mostly price a 25 bp hike to 3.75–4.00%; 10-year hits 5%; Warsh’s first hike vs Trump pressure
+
+- **Sources/time:** Reuters Mon 10:02 UTC; Reuters poll Mon; CNBC Mon — [Reuters](https://www.reuters.com/business/feds-table-is-set-rate-hike-first-under-warsh-2026-09-14/) · [Reuters Poll](https://www.reuters.com/business/fed-rate-hike-wednesday-now-likely-say-economists-least-one-more-follow-2026-09-14/) · [CNBC](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)
+- **Sourced facts:** FOMC decision due **Wed 14:00 EDT (18:00 GMT)** after the Sep 15–16 meeting — **decision itself is out of window**. Futures/analysts lean **+25 bp to 3.75–4.00%**; Reuters poll after Friday CPI: **86/101 (85%)** expect a Wednesday hike; many see **≥1 more** by March. Monday U.S. **10-year** touched **5%** (Reuters). Chair **Kevin Warsh** dislikes forward guidance; Trump has pushed for cuts (**political pressure**). Hotter August core CPI and $100+ oil cited as hike rationale (CPI body = prior window).
+- **Analysis:** In-window news is the **Monday preview/poll/5% yield**. Actual FOMC outcome is out of window.
+
+### 3. KOSPI 6,684.37 (−3.26%), KOSDAQ 806.79 (−1.69%)…foreigners sell a 4th session; Samsung −4%, SK hynix −6%; “AI slowdown” narrative, oil, FOMC nerves; KRX after-hours market day one
+
+- **Sources/time:** Yonhap 2026-09-14 16:09 KST — [Yonhap](https://www.yna.co.kr/view/AKR20260914133300008) · [Yonhap News TV](https://www.yonhapnewstv.co.kr/news/AKR202609141553134yE)
+- **Sourced facts:** Monday KOSPI **6,684.37** (−225.54, **−3.26%**), intraday low **6,654.82**. KOSDAQ **806.79** (−1.69%). USD/KRW daytime close **1,347.3** (+1.4). Foreigners sold ~**₩3.3T** on KOSPI (4th straight day); institutions ~₩1.17T sellers; individuals ~₩2.97T buyers (Yonhap). Samsung Electronics **−4.05%**, SK hynix **−6.35%**; defense/banks relatively firm. Domestic media tied the slide to weekend **AI pace-control** talk, Salalah delay/oil rebound, and Wednesday hike odds. Combined market cap fell below **₩6,000T** (~₩5,962T). Same day: KRX **after-market** (16:00–20:00 continuous) **launched**; prior after-hours single-price session retired.
+- **Analysis:** Core **in-window cash print**. “AI slowdown” is a **market narrative**, not proof of cut semiconductor capex.
+
+### 4. Tech…Signal phone-less signup + ZK; Apple A20 Pro & Siri external-model code; Mullenweg back as CEO; Nike leaving S&P 100; WebKit module-loader rewrite; XCancel down; $100k H-1B fee; TikTok Texas ruling; AITimes Altman/Hassabis/Nadella/LG/Hancom
+
+- **Sources/time:** GeekNews Atom in-window ~**33645–33702**; AITimes RSS **41895–41910** — [GeekNews](https://news.hada.io)
+- **Sourced facts:**
+  - **Privacy/security:** Signal-Android commits for phone-less accounts using **zkgroup** credentials ([33670](https://news.hada.io/topic?id=33670)). XCancel **offline again** on legal developments ([33692](https://news.hada.io/topic?id=33692)/[33702](https://news.hada.io/topic?id=33702)). Report that an OpenAI bot knew/tried a RubyGems caching bug ([33701](https://news.hada.io/topic?id=33701)). Texas court: TikTok **misled** users on child-safety features ([33699](https://news.hada.io/topic?id=33699)).
+  - **Apple/hardware:** A20 Pro Geekbench 7 single **4,006** / multi **11,460** (+23%/+27% vs A19 Pro); single-thread claims up to ~32% above desktop i9/Ryzen 9 ([33673](https://news.hada.io/topic?id=33673)). Private frameworks in iOS 27 / macOS Golden Gate suggest Siri **Model Delegation** to Claude/ChatGPT ([33695](https://news.hada.io/topic?id=33695)). Privacy critique of Watch **Live Rewind** / **Siri Recap** always-listening features ([33661](https://news.hada.io/topic?id=33661)).
+  - **Industry/policy:** Automattic confirms **Matt Mullenweg** back as CEO after board leave ([33681](https://news.hada.io/topic?id=33681)). Nike set to leave **S&P 100 on Sep 21** (remain in S&P 500) after deep market-cap drawdown ([33686](https://news.hada.io/topic?id=33686)). After **$100,000** H-1B fee, processed petitions **−87%**; firms shift hiring abroad ([33698](https://news.hada.io/topic?id=33698)). Costco engine-oil price/limits ([33650](https://news.hada.io/topic?id=33650)).
+  - **Engineering:** WebKit **rewrote** Safari’s module loader in C++ for Top-Level Await correctness ([33689](https://news.hada.io/topic?id=33689)). Wasmi 2.0 (~2.2×) ([33654](https://news.hada.io/topic?id=33654)); Lakebase Postgres live autoscaling ([33655](https://news.hada.io/topic?id=33655)); Claude Fable 5.1 claimed solve of 370-year **Cyphral Distich** ([33658](https://news.hada.io/topic?id=33658)); OpenAI Habitat storage scale ([33674](https://news.hada.io/topic?id=33674)); OpenArch/textbooks/design-doc posts ([33700](https://news.hada.io/topic?id=33700)/[33697](https://news.hada.io/topic?id=33697)/[33696](https://news.hada.io/topic?id=33696)).
+  - **AITimes (in-window):** **41906** Altman frames **pace control/safety**, not a halt; **41905** Hassabis on near-term AGI + frontier standards body; **41910** Nadella: superintelligence outside human control not worth pursuing; **41904** LG AI Research domain experts; **41896** Hancom **Nomadian** AI workforce platform; **41898** Cloudera×Mistral; **41897** S2W security FM; **41907** HD Hyundai Heavy–ETL stealth coating; plus Meissa, DeepX, GIST, MFDS items (41895–41909).
+- **Analysis:** Monday tech slate stacks **frontier pace-control syndication + Apple silicon/Siri delegation + OSS/infra + immigration/platform regulation**. Minimize re-lead of Amodei’s earlier essay.
+
+### 5. U.S./global market positioning…Monday intraday soft + Brent spike in window; cash closes (~05:00 KST) just after cutoff
+
+- **Sources/time:** Reuters oil 1730 GMT (in-window); session wrap media — [Reuters energy](https://www.reuters.com/business/energy/diplomacy-stumbles-with-postponement-meeting-strait-hormuz-proposal-2026-09-13/) · [TradingNews](https://www.tradingnews.com/news/sp-500-slides-nasdaq--loses-1-percent-and-dow-drops)
+- **Sourced facts:** U.S. equities traded soft Monday on Middle East/AI narratives; semis lagged. Reuters in-window oil: after the reopen spike, Brent ~**$106 / +1.6%** by 1730 GMT. Some wraps cite near-close Dow **52,291.66** (−0.54%), S&P **7,595.97** (−0.80%), Nasdaq **26,061.19** (−1.03%), Brent ~**$109** / WTI ~**$104** — **cash settlement 16:00 EDT ≈ 05:00 KST is just after the 04:00 cutoff**. 10-year **5%** confirmed Monday (Reuters Fed piece).
+- **Analysis:** Korea closes and Reuters 1730 GMT oil are solid in-window anchors. Treat U.S. **settlement** prints as edge-of-window and re-check next run.
+
+## Markets & sourcing notes
+
+- Korea **Mon 9/14** cash + after-market launch = in-window.
+- U.S. **Mon** cash settle ≈ **05:00 KST 9/15** → just after cutoff. FOMC decision = **Wednesday**.
+- GeekNews Atom in-window ~**33645–33702** (prior end ~33639). AITimes in-window **41895–41910** (≤41894 prior).
+- Do not re-lead: Fri KOSPI ~6,909; Sunday Hormuz vessel-hit body; Cognition RSA-260; Shinhan 41894 body.
