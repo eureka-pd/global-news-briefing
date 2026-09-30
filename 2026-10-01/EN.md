@@ -1,0 +1,37 @@
+# Global News Briefing — 2026-10-01
+
+- **Window:** from 2026-09-30 04:00 up to (not including) 2026-10-01 04:00 (KST)
+- **Method:** Facts vs analysis separated; party claims, intraday prints, and window-edge closes labeled. GeekNews Atom (`/workspace/news-2026-10-01/geeknews.xml` from `https://news.hada.io/rss`) and AITimes RSS (`/workspace/news-2026-10-01/aitimes.xml` from `https://www.aitimes.kr/rss/allArticle.xml`) parsed. **Korea** **Wed 9/30** regular session in-window. **US Tue cash** close (16:00 ET ≈ Wed 05:00 KST) in-window; **US Wed cash** close (≈ Thu 05:00 KST) outside — Reuters/LSE **mid-session (~11:49 ET; Wed 17:04 stamp)** only. Prior hooks (Sonnet 5.5, Nvidia $150B buyback, MongoDB CEO→Meta, Starship Flight 14 orbit, Mon KOSPI −2.70%, Iran 7-day plan text, GPT-6.1 Sol/Astra hold, AMD–World Labs $8.2B) — **no re-lead** (one-clause context max).
+
+## Top developments
+
+### 1. Markets…KOSPI 6,838.04 (−0.48%); foreigners −₩2.06T; USD/KRW 1,352.8; US Tue close soft; Wed midday Nasdaq +1.07%; softer PCE
+
+- **Sources/time:** Businesskorea (2026-09-30 16:35); Yonhap TV; Yonhap AKR20260930042451008; Sedaily; FMT/Nasdaq Zacks (Tue close); LSE/Reuters (Wed midday, 17:04); American Banker/BEA (PCE) — [Yonhap TV](https://www.yonhapnewstv.co.kr/news/AKR20260930153608p88) · [Yonhap](https://www.yna.co.kr/view/AKR20260930042451008) · [Businesskorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=277953) · [Sedaily](https://www.sedaily.com/article/20096668)
+- **Source facts:**
+  - **Korea (Wed):** KOSPI **6,838.04** (−32.77, **−0.48%**) — open **6,943.47** (+1.06%); session high **6,965.64** / low ~**6,818.39** (Businesskorea/Yonhap TV). **Third straight** decline after Chuseok; Micron earnings caution cited (Sedaily/Yonhap). Foreigners **−₩2.0554T**, institutions **−₩768B**, individuals **+₩1.1667T** (Yonhap). Samsung Electronics **₩268,500** (−1.47%/−₩4,000); SK hynix **₩1,776,000** (+0.62%/+₩11,000; session high ₩1,824,000). KOSDAQ **855.91** (+6.11, **+0.72%**). USD/KRW **1,352.8** (−3.9).
+  - **US:** **Tue close (in-window):** Dow **51,349.92** (−0.26%/−131.59), S&P **7,670.84** (−0.17%/−12.85), Nasdaq **26,797.54** (−0.08%/−22.84) — FMT/Zacks. **Wed midday (LSE/Reuters ~11:49 ET; Wed 17:04 stamp, pre-close, window-edge):** Dow **51,320.51** (−29.41, **−0.06%**), S&P **7,715.83** (+44.99, **+0.59%**), Nasdaq **27,082.95** (+285.41, **+1.07%**) — softer Aug PCE cited. **Official Wed closes outside window — not used here**.
+  - **PCE (BEA/media):** Aug headline **+0.3% MoM** / **+3.4% YoY**; core **+0.2% MoM** / **+3.0% YoY** — below some estimates; Fed hike odds eased but not gone (American Banker).
+  - **Oil (snapshots; official Wed settles unverified):** CNBC Wed early Brent **$103.09** (+0.49%) / WTI **$89.53** (+0.18%) after Trump denied Axios sanctions-relief story. Al Jazeera: Tue Brent **−2.6%** to **$102.59**; Middle East exports ~80% of pre-war (Kpler).
+- **Analysis:** Hook = **third Korea down day (foreign/institution selling) + soft US Tue close then Wed midday Nasdaq bounce + softer PCE + oil snapshots**. No call on Wed US close or official oil settles.
+
+### 2. Oil & geopolitics…Iran receives US reply via Qatar; Trump “NOTHING/HOAX”; no call on ceasefire or full Hormuz reopen
+
+- **Sources/time:** Anadolu Agency (2026-09-30); CNBC; Al Jazeera — [AA](https://www.aa.com.tr/en/middle-east/iran-receives-us-response-to-qatari-mediated-proposal-spokesperson/4073606) · [CNBC](https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz)
+- **Source facts:** Iran FM Araghchi’s side — **US response received** via Qatari mediation (AA/CNBC). Trump on Truth Social denied Axios sanctions-relief/frozen-funds story: **“I offered them NOTHING!”** / **“HOAX”** (CNBC). Qatar’s Majed al-Ansari said messages still being exchanged. **No confirmation of ceasefire or full Hormuz reopen**. Prior 7-day plan body — **no long-form re-lead**.
+- **Analysis:** In-window hook = **US reply received + denial of sanctions-relief story + ongoing mediator messages**. No call on deal close or strait normalization.
+
+### 3. Tech…GeekNews 34504–34558: OpenAI Decision API & Pro 500; US SI executive order; AITimes 42112–42133
+
+- **Sources/time:** GeekNews **34504–34558** (44 entries; gaps 34514, 34518, 34523–34524, 34526, 34529, 34535, 34538, 34543–34544, 34550 — prior end ~34503); AITimes **42112–42133** (article/pubDate in-window; gap 42114); Neowin (2026-09-30) — [GeekNews](https://news.hada.io) · [34528](https://news.hada.io/topic?id=34528) · [34510](https://news.hada.io/topic?id=34510) · [42125](https://www.aitimes.kr/news/articleView.html?idxno=42125) · [34511](https://news.hada.io/topic?id=34511) · [42130](https://www.aitimes.kr/news/articleView.html?idxno=42130) · [34512](https://news.hada.io/topic?id=34512) · [34509](https://news.hada.io/topic?id=34509) · [34555](https://news.hada.io/topic?id=34555) · [34558](https://news.hada.io/topic?id=34558) · [34520](https://news.hada.io/topic?id=34520) · [42132](https://www.aitimes.kr/news/articleView.html?idxno=42132) · [42133](https://www.aitimes.kr/news/articleView.html?idxno=42133)
+- **Source facts:**
+  - **OpenAI DevDay packaging (**34528**, **34510**; Neowin):** **Decisions API** (Luna-based, limited preview) — question + finite answers + context → one choice with confidence; use cases: classification, routing, agent next-action. GeekNews summary claims ~**1s-class** responses. **ChatGPT Pro 500** at **$500**/mo (25× Plus + Astra Ultrafast); Pro 200 reopened with lower new-sub allowance; some grandfathering to **Oct 29** (**34510**). (Sol/Astra hold = prior hook — one clause only.)
+  - **US “Super Intelligence / SI” EO (**42125**, 2026-09-30 12:14):** Trump EO “Inaugurating the Era of Super Intelligence” — federal non-statutory documents use **SI** instead of AI; APST has **60 days** to draft a federal SI definition. **Does not rewrite existing regs/contracts**. America.gov / Gemini public portal (**34511**, **42130**).
+  - **Other:** Anthropic — GLM-5.3 exploit capability near Mythos Preview (**34512**). Bain — AI infra needs ~**$6T** annual revenue by 2031 to justify boom (**34509**). Meta Muse ignore-permissions / Messages sync claims (**34555**); Microsoft Titan JWT signature skip → potential admin impersonation over ~**17T** records claim (**34558**). Meta–Naver maps walking guidance on Ray-Ban/Oakley Meta glasses this year (**34520**). AI-centric univ 18 / AX grad 15 overlapped prior-day AITimes (**42105**) — GeekNews **34521** one-clause only. Meta Muse SMB evolution (**42132**); UK AI drone swarm from Ukraine battlefield data (**42133**).
+- **Analysis:** Wednesday tech axis = **DevDay product stack (Decision API / Pro 500) + federal SI terminology shift + agent/security-risk narrative**. Benchmark, equity, and regulatory follow-through not asserted.
+
+## Market / source notes
+
+- **Cash:** Korea **Wed regular session in-window**. US **Tue close in-window**; **Wed close outside** — Reuters/LSE midday only. Oil **Wed official settles unverified** (CNBC early / Al Jazeera Tue snapshots).
+- GeekNews **34504–34558** (gaps above). AITimes **42112–42133** (gap 42114; pubDate treated as KST in-window).
+- No re-lead: Sonnet 5.5 / Nvidia $150B buyback / MongoDB→Meta / Starship Flight 14 / Mon KOSPI −2.70% / Iran 7-day plan text / GPT-6.1 Sol/Astra hold / AMD–World Labs $8.2B **long form**.
